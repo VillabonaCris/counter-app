@@ -60,7 +60,7 @@ button {
 }
 
 #decrease:active{
-    background-color: lightblue;
+    background-color: rgb(121, 179, 233);
     width: 210px;
 }
 
